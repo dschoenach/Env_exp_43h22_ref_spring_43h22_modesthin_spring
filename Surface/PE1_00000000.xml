@@ -1,0 +1,3080 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20230414-20230515</PERIOD>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.27382731E-04 </STDV_OBS>
+ <EXP>
+ <ID>       26231 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   4.86306490E-05 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   3.38973914E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       26231 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         123 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.26049194E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.19024285E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2981 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   7.13301197E-05 </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.01066221E+31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2981 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   9.16251971E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.98966198E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2741 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.54427707E-05 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   1.95530220E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2741 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.98365989E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2773 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2773 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2978 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.01066221E+31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2978 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2964 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2964 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2926 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2926 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2754 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.01066221E+31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2754 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2769 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2769 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   9.23606640E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2935 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.17658128E-05 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2935 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   9.20820530E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2957 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.01066221E+31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2957 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.78979712E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2924 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.94145275E-06 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2924 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.77836477E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2915 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2915 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.45768048E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2955 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.05904744E-05 </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   4.24802973E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2955 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.45328318E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.83728077E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   6.76523996E-05 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   4.70312109E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2789 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.81967179E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.61997222E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2939 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.78703432E-04 </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   8.28625518E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2939 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.61206878E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2755 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2755 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2851 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2851 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.36800611E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   1.26705476E-04 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   1.98962807E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2866 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.36367010E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.74971779E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2889 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   6.60356251E-04 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   2.39885859E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2889 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.74142274E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.35720858E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.38270111E-05 </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   6.06847228E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.35009778E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.48619667E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   8.74345540E-04 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   4.44090646E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   4.47266363E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.38148126E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   8.31316109E-04 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   2.18324526E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.36442408E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.37768842E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   5.66965318E-04 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   2.84832763E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.37051607E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.42168692E-03 </MEAN_OBS>
+ <STDV_OBS>   6.71383590E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.91128422E-02 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   5.69770820E-02 </BIAS>
+ <RMSE>  0.813030601     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.02044298E-02 </BIAS>
+ <RMSE>  0.815678239     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.55421752E-02 </MEAN_OBS>
+ <STDV_OBS>   7.05844164E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.57279351E-02 </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   9.21485350E-02 </BIAS>
+ <RMSE>  0.523643255     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   9.24952328E-02 </BIAS>
+ <RMSE>  0.515643954     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.22121675E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.22629181E-02 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   5.32406345E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.20546660E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.22059835E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2883 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.27963159E-04 </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   1.96832721E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2883 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.21691637E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2777 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2998 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2998 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2759 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2759 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2737 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         168 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2737 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         168 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.82676348E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2834 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   4.08861408E-04 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   5.50984929E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2834 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.81521974E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2874 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2874 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.94835127E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.23560234E-05 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   3.37395468E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.94247390E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.42216050E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.19717035E-03 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   5.97122032E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2824 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.40580414E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.61580369E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.57239484E-03 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   1.17360149E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.61092952E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2982 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2982 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2974 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2976 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2963 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.03179986E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2947 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.35313291E-05 </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   5.78590203E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2947 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.02265398E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2913 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.96092902E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2766 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.50014559E-04 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   9.30444337E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2766 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   6.93993119E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.32494327E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.14724962E-04 </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   1.01042155E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2739 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.32094638E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.63106795E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   1.52393637E-04 </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   1.47756329E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2799 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   6.60991645E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2803 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2803 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.10645592E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.35306153E-04 </MEAN>
+ <STDV>  -6.94398501E+14 </STDV>
+ <BIAS>   3.93715512E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2714 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.10311818E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.40968943E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.61787209E-04 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   1.43558788E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.94969235E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2804 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.40543701E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.19676091E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.94140100E-05 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   2.91722827E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.94969235E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2813 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.19013411E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.72655394E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2815 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   5.44170907E-04 </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   8.71708617E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2815 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.71832896E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.54567622E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2745 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   9.25571308E-04 </MEAN>
+ <STDV>  -6.94398501E+14 </STDV>
+ <BIAS>   1.91311445E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2745 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.52809937E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.89309493E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   4.31988994E-03 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   1.68844312E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.88738406E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.22522353E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2719 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.14726169E-04 </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   1.58317667E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2719 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.22152746E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.14698764E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2722 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   4.47539147E-03 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   1.41484849E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2722 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.14352768E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.08433738E-02 </MEAN_OBS>
+ <STDV_OBS>   3.86706106E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   8.16382281E-03 </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   4.83903252E-02 </BIAS>
+ <RMSE>  0.350507855     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   4.79974411E-02 </BIAS>
+ <RMSE>  0.353292912     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.25301178E-02 </MEAN_OBS>
+ <STDV_OBS>   6.54417872E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.53426202E-02 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>  0.107390121     </BIAS>
+ <RMSE>  0.620640755     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>  0.102725230     </BIAS>
+ <RMSE>  0.686115026     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.07228919E-02 </MEAN_OBS>
+ <STDV_OBS>  0.133838743     </STDV_OBS>
+ <EXP>
+ <ID>        2825 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   4.48708870E-02 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>  0.102366477     </BIAS>
+ <RMSE>  0.635855794     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2825 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>  0.105599284     </BIAS>
+ <RMSE>  0.614939272     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2937 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2937 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2763 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2763 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.78979712E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2959 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.94145275E-06 </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   7.55673027E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2959 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.77836477E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.27388824E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2734 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.76487956E-05 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   4.59207891E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2734 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.26702876E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2931 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.94969235E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2931 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2753 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2753 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.32173460E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2850 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   5.00047026E-05 </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   7.94793130E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2850 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   4.30869753E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.94969235E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2778 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2833 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2833 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.93016953E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.76487956E-05 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2787 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.92434702E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.19623990E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2788 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.17656627E-05 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   6.50442598E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2788 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.19263132E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.70195339E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2791 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   6.25061366E-05 </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   4.62929456E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2791 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.69078625E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.92382940E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2928 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.35314383E-05 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   7.25560356E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2928 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.91802596E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.43639271E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2796 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.00763728E-04 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   6.09839219E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2796 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.42904318E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.51044572E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2738 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.17659247E-05 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   1.40696327E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2738 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   7.48778912E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2950 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   2.45591538E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2950 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2828 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2828 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2906 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2906 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2949 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2949 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2983 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -6.94398501E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2983 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2831 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2831 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.78994300E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2927 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.94156621E-06 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   1.12738657E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2927 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.77850993E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2774 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2774 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.30141855E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2724 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.33854812E-04 </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   1.53023854E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2724 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   4.28844290E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2986 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -6.94398501E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2986 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2985 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2985 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2750 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2750 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2756 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2756 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2706 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2706 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2829 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -1.94969235E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2829 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          46 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2704 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   2.01066221E+31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2704 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2767 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2767 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.65283394E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2830 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.05899851E-05 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2830 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.64483155E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   2.03660500E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2768 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.05903616E-05 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   3.77773431E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2768 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.03046147E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2708 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -6.94398501E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2708 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.78979712E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2770 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.94145275E-06 </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   1.13347567E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2770 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.77836477E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.78979712E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2946 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.94145275E-06 </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2946 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.77836477E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.51027692E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2771 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.17656609E-05 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   3.28971492E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2771 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   7.48762104E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.31439723E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2832 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   4.11807232E-05 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   7.60992407E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2832 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   4.30138229E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.57988746E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2710 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   5.88313378E-06 </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   1.13347567E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2710 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   7.55702204E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.45179986E-04 </STDV_OBS>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   4.70630257E-05 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   5.41743415E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2798 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.44138709E-04 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.83743234E-02 </STDV_OBS>
+ <EXP>
+ <ID>        2859 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.70622915E-03 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   1.89265609E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2859 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.82585600E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   1.45344820E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2811 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   4.77251131E-04 </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   9.27792955E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2811 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   1.44906365E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.88455737E-05 </STDV_OBS>
+ <EXP>
+ <ID>        2812 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   3.09038819E-06 </MEAN>
+ <STDV>  -6.94398501E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2812 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         158 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.87224500E-05 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.30616879E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2860 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   9.65678482E-04 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   1.88743155E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2860 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         157 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   7.28286337E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   8.19320232E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2819 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.30178021E-03 </MEAN>
+ <STDV>  -9.26438588E-07 </STDV>
+ <BIAS>   1.74260531E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2819 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   8.16848688E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   3.25301178E-02 </MEAN_OBS>
+ <STDV_OBS>  0.115415834     </STDV_OBS>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   2.51916517E-02 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>  0.114628725     </BIAS>
+ <RMSE>  0.633750737     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   8.82177055E-02 </BIAS>
+ <RMSE>  0.764942050     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   5.78313246E-02 </MEAN_OBS>
+ <STDV_OBS>  0.239882052     </STDV_OBS>
+ <EXP>
+ <ID>        2858 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   6.26879707E-02 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>  0.108868919     </BIAS>
+ <RMSE>  0.887624800     </RMSE>
+ <CORR>  -3.68521616E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2858 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>  0.117436416     </BIAS>
+ <RMSE>  0.875309348     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   0.00000000     </STDV_OBS>
+ <EXP>
+ <ID>        2718 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2718 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   0.00000000     </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   5.42216050E-03 </STDV_OBS>
+ <EXP>
+ <ID>        2764 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   1.19717035E-03 </MEAN>
+ <STDV>  -1.94969235E+14 </STDV>
+ <BIAS>   5.97122032E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -6.94398501E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2764 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>         166 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.40580414E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.08163248E-03 </MEAN_OBS>
+ <STDV_OBS>   1.33106438E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          49 </NUM>
+ <MEAN>   6.38751406E-03 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   2.69683581E-02 </BIAS>
+ <RMSE>  0.329181701     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3281 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          49 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.30457727E-02 </BIAS>
+ <RMSE>  0.593376994     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   6.80000037E-02 </MEAN_OBS>
+ <STDV_OBS>   3.65766659E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.33541189E-02 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>  0.139490947     </BIAS>
+ <RMSE>  0.371847928     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3391 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>  0.140144795     </BIAS>
+ <RMSE>  0.322512418     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   2.53085122E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   9.21386946E-03 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   3.33141536E-02 </BIAS>
+ <RMSE>  -5.61510772E-02 </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3275 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.85411680E-02 </BIAS>
+ <RMSE>  -5.25368862E-02 </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.25531901E-03 </MEAN_OBS>
+ <STDV_OBS>   5.16614877E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>   9.42130666E-03 </MEAN>
+ <STDV>  -6.94398501E+14 </STDV>
+ <BIAS>   2.89793331E-02 </BIAS>
+ <RMSE>  0.995281458     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3482 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          47 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.24685259E-02 </BIAS>
+ <RMSE>  0.996656716     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   4.33458621E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.56493927E-03 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   2.50887983E-02 </BIAS>
+ <RMSE>  0.863687336     </RMSE>
+ <CORR>   2.01066221E+31 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3008 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.73234900E-02 </BIAS>
+ <RMSE>  0.232377842     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   7.74607584E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   2.25194562E-02 </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   3.61913666E-02 </BIAS>
+ <RMSE>  0.986823380     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3684 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   5.18952943E-02 </BIAS>
+ <RMSE>  0.924744666     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   4.83384030E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.62841647E-03 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   4.12921980E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3002 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   4.78525786E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   3.54395993E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   7.98632111E-03 </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   3.65696102E-02 </BIAS>
+ <RMSE>  0.718306303     </RMSE>
+ <CORR>  -9.26444045E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3392 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   8.80413968E-03 </BIAS>
+ <RMSE>  0.986085057     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   2.40000002E-02 </MEAN_OBS>
+ <STDV_OBS>   3.86708640E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   8.72436725E-03 </MEAN>
+ <STDV>  -9.26442226E-07 </STDV>
+ <BIAS>   6.85976073E-02 </BIAS>
+ <RMSE>  0.822632313     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3693 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   6.64167404E-02 </BIAS>
+ <RMSE>  0.835716307     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.68809935E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.24765299E-02 </MEAN>
+ <STDV>  -9.26444045E-07 </STDV>
+ <BIAS>   5.05597815E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3292 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   6.62088022E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.29428634E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          49 </NUM>
+ <MEAN>   2.20790692E-03 </MEAN>
+ <STDV>  -9.26402208E-07 </STDV>
+ <BIAS>   6.37252303E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3488 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          49 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   6.22972753E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   1.60000008E-02 </MEAN_OBS>
+ <STDV_OBS>   1.30114937E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   4.73877555E-03 </MEAN>
+ <STDV>  -3.68522690E+14 </STDV>
+ <BIAS>   7.21854568E-02 </BIAS>
+ <RMSE>  0.647053897     </RMSE>
+ <CORR>  -9.26436769E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3382 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   6.82269260E-02 </BIAS>
+ <RMSE>  0.819600224     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   6.49693757E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.86931174E-02 </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   7.08681643E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26438588E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3469 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   6.43163994E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   5.29896431E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   8.94647744E-03 </MEAN>
+ <STDV>  -9.26436769E-07 </STDV>
+ <BIAS>   2.51283348E-02 </BIAS>
+ <RMSE>  0.997219980     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3797 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   2.45624799E-02 </BIAS>
+ <RMSE>  0.998241127     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   7.61072664E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   2.50732619E-03 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   2.84334943E-02 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26442226E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3005 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   7.53423432E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   6.69356212E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.09838936E-02 </MEAN>
+ <STDV>  -3.26235576E+32 </STDV>
+ <BIAS>   1.13764405E-02 </BIAS>
+ <RMSE>  0.915325940     </RMSE>
+ <CORR>  -3.68522690E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3017 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.88823375E-02 </BIAS>
+ <RMSE>  0.987121642     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   0.00000000     </MEAN_OBS>
+ <STDV_OBS>   3.89366737E-03 </STDV_OBS>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.56494149E-03 </MEAN>
+ <STDV>  -3.68521616E+14 </STDV>
+ <BIAS>   5.76659758E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>  -9.26402208E-07 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3091 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.85453412E-03 </BIAS>
+ <RMSE>   0.00000000     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   4.00000019E-03 </MEAN_OBS>
+ <STDV_OBS>   6.64040148E-02 </STDV_OBS>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>43h22_ref_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   1.50844818E-02 </MEAN>
+ <STDV>   2.01066221E+31 </STDV>
+ <BIAS>   4.20887880E-02 </BIAS>
+ <RMSE>  0.991768897     </RMSE>
+ <CORR>  -3.26236814E+32 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        3590 </ID>
+ <NAME>43h22_modesthin_spring</NAME>
+ <NUM>          50 </NUM>
+ <MEAN>   3.06534039E-41 </MEAN>
+ <STDV>   3.06534039E-41 </STDV>
+ <BIAS>   3.83090004E-02 </BIAS>
+ <RMSE>  0.988176048     </RMSE>
+ <CORR>   3.06534039E-41 </CORR>
+ </EXP>
+ </STATION>
+</STAT>
